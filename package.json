@@ -1,8 +1,8 @@
 {
   "name": "ratelimit",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Node.js and TypeScript API implementing JWT authentication with configurable Token Bucket and Sliding Window rate limiting using Factory Pattern and storage abstraction.",
+  "main": "dist/server.js",
   "scripts": {
     "dev": "tsx watch src/server.ts",
     "build": "tsc",
